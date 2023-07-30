@@ -1,6 +1,31 @@
 
 # Projects
 
+## Project Table List
+
+### SDE Projects
+
+| Category        | Title                                                  | Date             |
+|-----------------|--------------------------------------------------------|------------------|
+| Computer Vision | Innogeeks (ERP + Student Management Portal)           | Nov 2020 - Mar 2021 |
+|                 | JewelAR (Jewelry Virtual Try ON)                      | Aug 2020 - Feb 2021 |
+| NLP/LLM         | SaproIndia (Ecommerce Cum Service Platform)           | Oct 2019 - Dec 2019 |
+| Traditional ML  | STET (Document Verification Portal)                   | Mar 2019 - Apr 2019 |
+
+### ML Projects
+
+| Category         | Title                                                       | Date                       |
+|------------------|-------------------------------------------------------------|----------------------------|
+| Computer Vision  | VQVAE as Defense Against Adversarial Attacks                | *N/A*                      |
+|                  | Person Image Synthesis (Cloth Virtual Try ON)               | *N/A*                      |
+|                  | Human Motion Diffusion Model (Based on Keypoints)           | *N/A*                      |
+|                  | DCGAN with ADAIN and ViT implementation from Scratch       | *N/A*                      |
+| NLP/LLM          | *No projects available*                                    | *N/A*                      |
+| Data Analytics   | *No projects available*                                    | *N/A*                      |
+| Traditional ML   | *No projects available*                                    | *N/A*                      |
+
+
+
 ## SDE Projects
 
 1. **Innogeeks (ERP + Student Management Portal)**
