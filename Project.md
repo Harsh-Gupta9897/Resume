@@ -12,14 +12,14 @@
 | STET (Document Verification Portal)                    | Mar 2019 - Apr 2019 |
 
 ### ML Projects
-
-| Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |
-|------------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------|
-| VQVAE as Defense Against Adversarial Attacks         | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |
-| Person Image Synthesis (Cloth Virtual Try ON)        | PrivaGPT (AI Governance Model for LLMs)       | Color Blindness (BWT Algorithm)          | Classification Module(Multiclass SVM)|
-| Human Motion Diffusion Model (Based on Keypoints)    | Text Based Classification (BERT-Based Encoder)| Covid19 Modelling based on CLT & LLN     | Regression and PCA                   |
-| DCGAN with ADAIN and ViT Implementation from Scratch | Sentiment Analysis(RNN/LSTM) & Word Embeddings| Recommendation System                    | CLustering(KMeans,Spectral Clustering)|
-| Metrics Analysis (CLIP, SWAV,IS) based FIDs          |                                               | Duckworth Lewis Method Implementation    |                                      |
+|                                     ML Projects                                                                                                                                        | SDE Projects |
+| Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |              |
+|------------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------|--------------|     
+| VQVAE as Defense Against Adversarial Attacks         | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |              |  
+| Person Image Synthesis (Cloth Virtual Try ON)        | PrivaGPT (AI Governance Model for LLMs)       | Color Blindness (BWT Algorithm)          | Classification Module(Multiclass SVM)|              |
+| Human Motion Diffusion Model (Based on Keypoints)    | Text Based Classification (BERT-Based Encoder)| Covid19 Modelling based on CLT & LLN     | Regression and PCA                   |              |
+| DCGAN with ADAIN and ViT Implementation from Scratch | Sentiment Analysis(RNN/LSTM) & Word Embeddings| Recommendation System                    | CLustering(KMeans,Spectral Clustering)|             |
+| Metrics Analysis (CLIP, SWAV,IS) based FIDs          |                                               | Duckworth Lewis Method Implementation    |                                      |              |
 
 
 
