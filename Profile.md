@@ -4,10 +4,6 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 <div align="center">
 
-## :email: Contact
-
-
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshguptashnd/)](https://linkedin.com/in/harshguptashnd/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@harshguptashnd)](https://medium.com/@harshguptashnd)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897)](https://github.com/Harsh-Gupta9897)
@@ -21,7 +17,7 @@ You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub 
 
 ## :page_facing_up: Resume
 
-[![PDF](https://img.shields.io/badge/-Download%20PDF-red?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=https://example.com/resume.pdf)](https://example.com/resume.pdf)
+[![PDF](https://img.shields.io/badge/-Download%20PDF-red?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=[https://example.com/resume.pdf](https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing))]([https://example.com/resume.pdf](https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing))
 [![GitHub](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897/Resume)](https://github.com/Harsh-Gupta9897/Resume)
 
 You can download my resume in PDF format or view the LaTeX source code on my GitHub repository! 📄📎
