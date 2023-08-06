@@ -2,10 +2,20 @@
 My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic.
 -->
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@harshguptashnd)
+<div align="center">
+
+## :email: Contact
 
 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshguptashnd/)](https://linkedin.com/in/harshguptashnd/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@harshguptashnd)](https://medium.com/@harshguptashnd)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897)](https://github.com/Harsh-Gupta9897)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:harshguptashnd@gmail.com)](mailto:harshguptashnd@gmail.com)
+
+You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub repositories, or drop me an email! 😊📧
+
+</div>
 
 <p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
 
@@ -99,30 +109,9 @@ You can find detailed descriptions of my projects in the [Project.md](https://gi
 - :telephone_receiver: Phone: +91 8534968497 / +91 8650065662
 - :octocat: GitHub: [Harsh-Gupta9897](https://github.com/Harsh-Gupta9897)
 
-<div align="center">
 
-## :email: Contact
 
-:link: LinkedIn: [harshguptashnd](https://www.linkedin.com/in/harshguptashnd/) / :envelope: [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com) / :school: [harshg@iisc.ac.in](mailto:harshg@iisc.ac.in) / :telephone_receiver: +91 8534968497 / +91 8650065662 / :octocat: [Harsh-Gupta9897](https://github.com/Harsh-Gupta9897)
-## :email: Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshguptashnd/)](https://linkedin.com/in/harshguptashnd/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@harshguptashnd)](https://medium.com/@harshguptashnd)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897)](https://github.com/Harsh-Gupta9897)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:harshguptashnd@gmail.com)](mailto:harshguptashnd@gmail.com)
-
-You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub repositories, or drop me an email! 😊📧
-
-</div>
-
-## :email: Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshguptashnd/)](https://linkedin.com/in/harshguptashnd/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@harshguptashnd)](https://medium.com/@harshguptashnd)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897)](https://github.com/Harsh-Gupta9897)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:harshguptashnd@gmail.com)](mailto:harshguptashnd@gmail.com)
-
-You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub repositories, or drop me an email! 😊📧
 
 
 
