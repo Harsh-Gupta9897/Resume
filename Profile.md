@@ -10,23 +10,6 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 <p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
 
   
-  :wave: About Me
-Hey there! 👋 My name is Harsh Gupta, a 22-year-old student researcher based in Bangalore, India. I am deeply passionate about the fascinating world of Generative AI, and I'm currently pursuing my Masters in CSA (Computer Science and Automation) at the prestigious IISc (Indian Institute of Science).
-
-:rocket: My Passion
-My main focus is on diffusion models and LLMs (Language Models), and I find immense joy in exploring the frontiers of Machine Learning and pushing the limits of what's possible. My research revolves around pushing the boundaries of Generative AI to solve complex problems like Person-Scene Image Synthesis using cutting-edge diffusion models.
-
-:computer: Academic Journey
-During my academic journey, I've completed various specialized courses, including DLCV (Deep Learning for Computer Vision), Probability, Linear Algebra, and optimization, Data Analytics. Armed with this knowledge, I've gained hands-on experience with the latest Open Source LLMs and fine-tuned them using the powerful QLoRA.
-
-:gear: Skills
-While I'm deeply engrossed in my passion for Generative AI, I also possess a strong skill set in backend development, particularly using Django and Rest APIs. This combination of Machine Learning expertise and software engineering prowess allows me to tackle complex challenges with a holistic approach.
-
-
-:bulb: Let's Connect!
-If you're seeking a dynamic and motivated individual to join your team for MLE/Applied Scientist roles or if you have exciting Generative AI projects to explore, don't hesitate to reach out to me at harshguptashnd@gmail.com. Let's
-
-
 ## About Me :wave:
 
 Hey there! :rocket: My name is Harsh Gupta, a 22-year-old student researcher based in Bangalore and aspiring Machine Learning Engineer and Applied Scientist from Bangalore, India. Currently, I'm pursuing my Masters in CSA (Computer Science and Automation) at the prestigious IISc (Indian Institute of Science) :computer:.
@@ -35,7 +18,7 @@ I am deeply passionate about the fascinating world of Generative AI, and my main
 
 During my academic journey, I've completed various specialized courses, including DLCV (Deep Learning for Computer Vision), Probability, Linear Algebra, and optimization, Data Analytics Armed with this knowledge, I've gained hands-on experience with the latest Open Source LLMs and fine-tuned them using the powerful QLoRA . While I'm deeply engrossed in my passion for Generative AI, I also possess a strong skill set in backend development, particularly using Django and Rest APIs. This combination of Machine Learning expertise and software engineering prowess allows me to tackle complex challenges with a holistic approach.
 
-If you're seeking a dynamic and motivated individual to join your team for MLE/Applied Scientist roles or if you have exciting Generative AI projects to explore, don't hesitate to reach out to me at [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com). Let's together create groundbreaking solutions and make a significant impact in the world of Machine Learning! :rocket:
+If you're seeking a dynamic and motivated individual to join your team for MLE/Applied Scientist roles :bulb: or if you have exciting Generative AI projects to explore, don't hesitate to reach out to me at ✉️: [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com). Let's together create groundbreaking solutions and make a significant impact in the world of Machine Learning! :rocket:
 
 
 ## Projects 😏
