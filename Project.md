@@ -12,7 +12,7 @@
 | STET (Document Verification Portal)                    | Mar 2019 - Apr 2019 |
 
 ### ML Projects
-|                                     ML Projects                                                                                                                                        | SDE Projects |
+|                                     ML Projects                                                                                                                                      ||| SDE Projects |
 | Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |              |
 |------------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------|--------------|     
 | VQVAE as Defense Against Adversarial Attacks         | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |              |  
