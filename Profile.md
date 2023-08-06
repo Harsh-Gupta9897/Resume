@@ -88,3 +88,12 @@ I'm a firm believer in the power of open-source and giving back to the community
 - :rocket: Machine Learning (IISc)
 - :pencil2: Deep Learning for NLP** (IISc)
 
+## :email: Contact
+
+- :link: LinkedIn: [harshguptashnd](https://www.linkedin.com/in/harshguptashnd/)
+- :envelope: Email: [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com)
+- :school: College Email: [harshg@iisc.ac.in](mailto:harshg@iisc.ac.in)
+- :telephone_receiver: Phone: +91 8534968497 / +91 8650065662
+- :octocat: GitHub: [Harsh-Gupta9897](https://github.com/Harsh-Gupta9897)
+
+
