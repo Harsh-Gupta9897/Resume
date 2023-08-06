@@ -15,7 +15,7 @@ You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub 
 
 <div align="center">
 
-
+## :page_facing_up: Resume
 
 [![PDF](https://img.shields.io/badge/-Resume-red?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing)](https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Harsh-Gupta9897/Resume)](https://github.com/Harsh-Gupta9897/Resume)
@@ -23,9 +23,6 @@ You can connect with me on LinkedIn, follow my Medium blog, check out my GitHub 
 You can download my resume in PDF format or view the digital resume on my GitHub repository! 📄📎
 
 </div>
-
-
-<p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
 
   
 ## About Me :wave:
