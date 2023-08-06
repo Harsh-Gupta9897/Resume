@@ -19,3 +19,10 @@ During my academic journey, I've completed various specialized courses, includin
 
 I'm a firm believer in the power of open-source and giving back to the community. I've actively contributed to various open-source projects and would love to continue collaborating with other like-minded individuals and organizations. If you're seeking a dynamic and motivated individual to join your team for MLE/Applied Scientist roles or if you have exciting Generative AI projects to explore, don't hesitate to reach out to me at [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com). Let's together create groundbreaking solutions and make a significant impact in the world of Machine Learning! :rocket:
 
+## Education 🚀:
+
+| **Education** | **Degree** | **Field**                        | **Duration**    |  **CGPA**    |
+|---------------|------------|----------------------------------|-----------------| -----------------|
+| IISc          | MTech      | Computer Science and Automation | Jul 2022 - Aug 2024 | 7.8 (Till 2nd Semester)
+| KIET Group    | BTech      | Computer Science               | July 2018 - July 2022| 8.83    |
+
