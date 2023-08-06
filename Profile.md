@@ -3,11 +3,11 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 -->
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@harshguptashnd)
 
 
-<p align="center"> :octocat: <b> <a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
+
+<p align="center"> :octocat: <b>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@harshguptashnd)  <a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
 
 ## About Me :wave:
 
