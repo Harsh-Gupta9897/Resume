@@ -188,3 +188,12 @@
      - Automated document verification using OCR (Optical Character Recognition).
      - Led a team of 4 members and served as the backend developer, integrating the frontend with the project.
    - **Tech Stack:** Django, HTML
+
+<div align="center">
+
+## :email: Contact
+
+:link: LinkedIn: [harshguptashnd](https://www.linkedin.com/in/harshguptashnd/) / :envelope: Email: [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com) / :school: College Email: [harshg@iisc.ac.in](mailto:harshg@iisc.ac.in) / :telephone_receiver: Phone: +91 8534968497 / +91 8650065662 / :octocat: GitHub: [Harsh-Gupta9897](https://github.com/Harsh-Gupta9897)
+
+</div>
+
