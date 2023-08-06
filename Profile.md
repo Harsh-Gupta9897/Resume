@@ -53,11 +53,38 @@ I'm a firm believer in the power of open-source and giving back to the community
 | Freelance API Developer | YellowFame                  | Nov 2019 - Mar 2020      |
 
 
-
 ## Education 🚀:
 
 | **Education** | **Degree** | **Field**                        | **Duration**    |  **CGPA**    |
 |---------------|------------|----------------------------------|-----------------| -----------------|
 | IISc          | MTech      | Computer Science and Automation | Jul 2022 - Aug 2024 | 7.8 (Till 2nd Semester)
 | KIET Group    | BTech      | Computer Science               | July 2018 - July 2022| 8.83    |
+
+
+
+## :computer: Skills
+
+### Programming
+- :diamond_shape_with_a_dot_inside: Django: Building web applications with ease and elegance.
+- :gear: Rest APIs (DRF): Crafting robust and efficient APIs for seamless communication.
+- :floppy_disk: SQL (DBMS), Docker, AWS: Managing data and deploying applications with cloud magic.
+- :art: JavaScript, HTML, CSS, Bootstrap: Crafting interactive and visually appealing front-end magic.
+- :fire: Pytorch, Networkx, transformers, NLP, DL, diffusers: Exploring the realms of AI and turning data into intelligence.
+- :crystal_ball: Generative AI: Unleashing the creativity of machines to create art, music, and more!
+
+### Miscellaneous
+- :octocat: Git: Mastering the art of version control and collaboration.
+- :wrench: VS Code: The trusty companion for coding adventures, customized to perfection.
+- :penguin: Linux: Embracing the open-source world with the power of penguins.
+
+## :book: Courses Taken
+
+### Graduate
+- :camera: Deep Learning for Computer Vision (IISc)
+- :bar_chart: Data Analytics (IISc)
+- :infinity: Linear Algebra & Optimization (IISc)
+- :brain: Deep Learning (IITM)
+- :game_die: Probability (IISc)
+- :rocket: Machine Learning (IISc)
+- :pencil2: Deep Learning for NLP** (IISc)
 
