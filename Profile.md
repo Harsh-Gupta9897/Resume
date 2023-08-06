@@ -8,7 +8,9 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 
 <p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1gbnb9xGEj1zcNXhHNQFArvU0Dh04DnLD/view?usp=sharing">Resume</a>
-:wave: About Me
+
+  
+  :wave: About Me
 Hey there! 👋 My name is Harsh Gupta, a 22-year-old student researcher based in Bangalore, India. I am deeply passionate about the fascinating world of Generative AI, and I'm currently pursuing my Masters in CSA (Computer Science and Automation) at the prestigious IISc (Indian Institute of Science).
 
 :rocket: My Passion
