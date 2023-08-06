@@ -19,6 +19,29 @@ During my academic journey, I've completed various specialized courses, includin
 
 I'm a firm believer in the power of open-source and giving back to the community. I've actively contributed to various open-source projects and would love to continue collaborating with other like-minded individuals and organizations. If you're seeking a dynamic and motivated individual to join your team for MLE/Applied Scientist roles or if you have exciting Generative AI projects to explore, don't hesitate to reach out to me at [harshguptashnd@gmail.com](mailto:harshguptashnd@gmail.com). Let's together create groundbreaking solutions and make a significant impact in the world of Machine Learning! :rocket:
 
+
+## Projects 😏
+
+### ML Projects
+
+| Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |
+|------------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------|   
+| VQVAE as Defense Against Adversarial Attacks         | PrivaLLM & DataGenLLM (OpenSource LLM, QLoRa) | Community Detection (Spectral Clustering)| Naive Bayes Implementation           |
+| Person Image Synthesis (Cloth Virtual Try ON)        | PrivaGPT (AI Governance Model for LLMs)       | Color Blindness (BWT Algorithm)          | Classification Module(Multiclass SVM)|
+| Human Motion Diffusion Model (Based on Keypoints)    | Text Based Classification (BERT-Based Encoder)| Covid19 Modelling based on CLT & LLN     | Regression and PCA                   |
+| DCGAN with ADAIN and ViT Implementation from Scratch | Sentiment Analysis(RNN/LSTM) & Word Embeddings| Recommendation System                    | CLustering(KMeans,Spectral Clustering)|
+| Metrics Analysis (CLIP, SWAV,IS) based FIDs          |                                               | Duckworth Lewis Method Implementation    |                                      |
+
+### SDE Projects
+|               Title                                    | Date             |
+|--------------------------------------------------------|------------------|
+| Innogeeks (ERP + Student Management Portal)            | Nov 2020 - Mar 2021 |
+| JewelAR (Jewelry Virtual Try ON)                       | Aug 2020 - Feb 2021 |
+| SaproIndia (Ecommerce Cum Service Platform)            | Oct 2019 - Dec 2019 |
+| STET (Document Verification Portal)                    | Mar 2019 - Apr 2019 |
+
+
+
 ## Education 🚀:
 
 | **Education** | **Degree** | **Field**                        | **Duration**    |  **CGPA**    |
