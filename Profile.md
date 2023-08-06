@@ -23,6 +23,8 @@ If you're seeking a dynamic and motivated individual to join your team for MLE/A
 
 ## Projects 😏
 
+You can find detailed descriptions of my projects in the [Project.md](https://github.com/Harsh-Gupta9897/Resume/blob/main/Project.md) file on my GitHub repository. Feel free to explore and learn more about the exciting projects I've worked on! 🚀🔍
+
 ### ML Projects
 
 | Computer Vision                                      | NLP/LLM                                       | Data Analytics                            | Traditional ML                      |
