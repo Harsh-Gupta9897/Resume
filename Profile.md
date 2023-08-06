@@ -41,6 +41,18 @@ I'm a firm believer in the power of open-source and giving back to the community
 | STET (Document Verification Portal)                    | Mar 2019 - Apr 2019 |
 
 
+## Experiences 😃
+
+| Role                | Company/Organization           | Duration                 |
+|---------------------|--------------------------------|--------------------------|
+| Student Researcher  | VAL Lab IISc                  | May 2023 - Present       |
+| Research Intern     | PrivaSapien Tech Pvt. Ltd.     | May 2023 – July 2023     |
+| Teaching Assistant  | Data Analytics IISc            | Aug 2023 - Present       |
+| Software Engineer   | ConsultAdd Inc.                | Jan 2022 – July 2022     |
+| Django Backend Intern | Infoware                      | Nov 2019 – March 2020    |
+| Freelance API Developer | YellowFame                  | Nov 2019 - Mar 2020      |
+
+
 
 ## Education 🚀:
 
